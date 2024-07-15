@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "ee83",
+      "name": "xbox 360",
+      "price": "8000",
+      "image": "https://m.media-amazon.com/images/I/61oFqsoj9nL.jpg"
+    },
+    {
+      "id": "2f9f",
+      "name": "pantalla samsung",
+      "price": "8000",
+      "image": "https://images.samsung.com/is/image/samsung/mx-full-hd-t5300-un43t5300afxzx-frontblack-234815390?$650_519_PNG$"
+    }
+  ]
+}
